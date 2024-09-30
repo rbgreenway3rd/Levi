@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:03,839
+ We'll phone you at 9-1-1. Where's your frequency?
+
+2
+00:00:03,839 --> 00:00:06,911
+ Uh, is this 9-11?
+
+3
+00:00:06,911 --> 00:00:08,912
+ This is 9-1-1. Can I help you?
+
+4
+00:00:08,912 --> 00:00:09,912
+ Yes.
+
+5
+00:00:09,912 --> 00:00:15,871
+ I fell down in the house and I can't get up.
+
+6
+00:00:15,871 --> 00:00:17,271
+ Okay, what's your M.I. doors?
+
+7
+00:00:17,271 --> 00:00:20,312
+ I locked, I don't know what to do.
+
+8
+00:00:20,312 --> 00:00:22,271
+ What's your address?
+
+9
+00:00:22,271 --> 00:00:26,879
+ Two, nine, six, eight, one.
+
+10
+00:00:26,879 --> 00:00:29,952
+ Half the way. How old are you?
+
